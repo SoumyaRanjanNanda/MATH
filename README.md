@@ -1,2 +1,2 @@
 # MATH
-MATHS FOR PROGRAMMERS  (basic → advanced)
+MATH FOR PROGRAMMERS  (basic → advanced)
